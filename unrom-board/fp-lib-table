@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "unrom-board")(type "KiCad")(uri "${KIPRJMOD}/unrom-board.pretty")(options "")(descr ""))
+  (lib (name "common_footprints")(type "KiCad")(uri "${KIPRJMOD}/../common_footprints.pretty")(options "")(descr ""))
+)
