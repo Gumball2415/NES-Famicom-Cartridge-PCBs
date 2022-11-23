@@ -29,13 +29,14 @@ fp-info-cache
 *.csv
 
 # exported gerbers
-gerbers/*
+*/gerbers/*
+*/gerber/*
 
 # packaged releases
-distribute/*
+*/distribute/*
 
 # vector graphics and PCB silkscreen art
-graphics/*
+*/graphics/*
 
 # svg2shenzhen generated files
 *.svg2shenzhen-cache
