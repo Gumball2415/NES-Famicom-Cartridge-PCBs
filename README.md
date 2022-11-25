@@ -1,5 +1,9 @@
 # NES-Famicom-Cartridge-PCBs
- this is where i make the cartridge PCBs for games
+
+
+ ![](docs/overview.jpg)
  
- All cartridge PCBs are licenced under the TAPR Open Hardware License
+ this is where i make the cartridge PCBs
+ 
+ All cartridge PCBs are licenced under the TAPR Open Hardware License.
  
